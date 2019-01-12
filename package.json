@@ -1,0 +1,22 @@
+{
+  "name": "rest-api",
+  "version": "0.0.1",
+  "description": "Rest API Example",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4",
+    "morgan": "^1.9.1"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api"
+  ],
+  "license": "MIT"
+}
